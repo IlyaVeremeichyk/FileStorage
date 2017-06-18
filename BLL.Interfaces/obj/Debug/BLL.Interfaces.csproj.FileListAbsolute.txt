@@ -1,0 +1,5 @@
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL.Interfaces\bin\Debug\BLL.Interfaces.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL.Interfaces\bin\Debug\BLL.Interfaces.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL.Interfaces\obj\Debug\BLL.Interfaces.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL.Interfaces\obj\Debug\BLL.Interfaces.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL.Interfaces\obj\Debug\BLL.Interfaces.csprojResolveAssemblyReference.cache

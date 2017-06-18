@@ -1,0 +1,16 @@
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\BLL.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\BLL.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\BLL.Interfaces.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\DAL.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\DAL.Interfaces.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\ORM.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\EntityFramework.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\BLL.Interfaces.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\DAL.Interfaces.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\DAL.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\ORM.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\EntityFramework.xml
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\obj\Debug\BLL.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\obj\Debug\BLL.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\BLL\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll

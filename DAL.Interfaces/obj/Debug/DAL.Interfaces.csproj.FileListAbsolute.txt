@@ -1,0 +1,5 @@
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\DAL.Interfaces\bin\Debug\DAL.Interfaces.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\DAL.Interfaces\bin\Debug\DAL.Interfaces.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\DAL.Interfaces\obj\Debug\DAL.Interfaces.dll
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\DAL.Interfaces\obj\Debug\DAL.Interfaces.pdb
+C:\Users\yaink\onedrive\documents\visual studio 2013\Projects\FileStorage\DAL.Interfaces\obj\Debug\DAL.Interfaces.csprojResolveAssemblyReference.cache
